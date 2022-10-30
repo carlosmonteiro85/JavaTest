@@ -39,8 +39,8 @@ Foi utilizado o banco de dados H2 para a fase de desenvolvimento.
 Após o projeto receber o build, é iniciado o H2, que é encontrado através do endpoint: http://localhost:8080/h2-console/ dados de acesso:
 
 * JDBC URL: jdbc:h2:mem:sigaBem_DB
-* User: sa
-* Password: vazio
+* User: root
+* Password: root
 
 ## Cliente REST para realizar testes - Postman
 
