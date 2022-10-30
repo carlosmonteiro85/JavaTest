@@ -11,11 +11,11 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import br.com.cd2tec.sigabem.dto.EncomendaDTO;
-import br.com.cd2tec.sigabem.dto.EnderecoDTO;
-import br.com.cd2tec.sigabem.entity.Cotacao;
-import br.com.cd2tec.sigabem.service.CotacaoService;
-import br.com.cd2tec.sigabem.service.ViaCEPService;
+import br.com.cd2tec.sigabem.api.dto.EncomendaDTO;
+import br.com.cd2tec.sigabem.api.dto.EnderecoDTO;
+import br.com.cd2tec.sigabem.domain.entity.Cotacao;
+import br.com.cd2tec.sigabem.domain.service.CotacaoService;
+import br.com.cd2tec.sigabem.domain.service.ViaCEPService;
 
 @SpringBootTest
 public class SigaBemApplicationTests {
