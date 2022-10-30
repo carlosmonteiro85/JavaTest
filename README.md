@@ -1,4 +1,4 @@
-# API
+# API de Cotação de Encomendas
 API com endpoint para o cálculo do preço do frete:
 
 Você deve calcular o valor total do frete e a data prevista da entrega.
